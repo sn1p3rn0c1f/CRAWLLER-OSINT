@@ -4,7 +4,7 @@
 🔎 OSINT-Crawler
 
 Un outil d’OSINT (Open Source Intelligence) écrit en Python pour automatiser la collecte d’informations sur une cible : pseudo, email, domaine, nom & prénom.
-Parfait pour les pentesters, investigateurs ou curieux ! 😈
+Parfait pour les pentesters !
 
 
 🚀 Fonctionnalités
@@ -57,11 +57,3 @@ Entrez un nom de domaine → WHOIS lookup.
 
 Entrez un nom + prénom → il scrape des infos sur plusieurs sites.
 
-Les résultats sont exportés automatiquement dans le dossier /exports/.
-
-
-
-│   └── (résultats ici)
-├── main.py
-├── README.md
-└── requirements.txt
