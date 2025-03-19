@@ -22,9 +22,9 @@ Parfait pour les pentesters !
 
 📥 Installation
 
-git clone https://github.com/tonpseudo/OSINT-Crawler.git
+git clone 
 
-cd OSINT-Crawler
+cd 
 
 pip install -r requirements.txt
 
