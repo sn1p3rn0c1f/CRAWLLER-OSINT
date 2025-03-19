@@ -22,9 +22,9 @@ Parfait pour les pentesters !
 
 📥 Installation
 
-git clone 
+git clone https://github.com/sn1p3rn0c1f/CRAWLLER-OSINT.git
 
-cd 
+cd Crawller Osint
 
 pip install -r requirements.txt
 
